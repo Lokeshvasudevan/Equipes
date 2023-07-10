@@ -5,4 +5,6 @@ print(c)
 print("its main")
 print("check commit")
 print("demo")
-print("hello world")
+e=10
+f=e+100
+print(f)
