@@ -8,3 +8,4 @@ print("demo")
 e=10
 f=e+100
 print(f)
+print(e)
